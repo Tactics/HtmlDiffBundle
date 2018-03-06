@@ -1,10 +1,10 @@
 {
-    "name": "caxy/htmldiff-bundle",
+    "name": "tactics/htmldiff-bundle",
     "type": "symfony-bundle",
     "description": "Symfony Bundle for php-htmldiff (caxy/php-htmldiff)",
     "license": "MIT",
     "keywords": [ "diff", "html", "diffing" ],
-    "homepage": "https://github.com/caxy/HtmlDiffBundle",
+    "homepage": "https://github.com/tactics/HtmlDiffBundle",
     "authors": [
         {
             "name": "Josh Schroeder",
